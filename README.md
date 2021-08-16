@@ -17,7 +17,7 @@ This is the central feature. My application will work to some extent to deal wit
 2. Which is the most popular specific tweet? 
    Example:-userid(katyperry) Most liked tweet of this particular person on twitter.
 3. Which twitter accounts use the hashtag Tokyo2020 Olympic?
-4. How many verified account on twitter have used Hashtag "Olympic"?
+4. How many verified twitter accounts have used Hashtag "Olympic"?
 5. Which account(User_id) has the most number of tweets(post)?
 
 # References
